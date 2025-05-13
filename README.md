@@ -38,7 +38,7 @@ Atualmente, sou estudante de **Sistemas para Internet na UFSM**, onde estou apri
 
 ## 📊 Estatísticas do GitHub
 
-<p>
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Williancp&show_icons=true&theme=highcontrast&count_private=true&locale=pt-br" 
     alt="Estatísticas GitHub" 
@@ -50,5 +50,3 @@ Atualmente, sou estudante de **Sistemas para Internet na UFSM**, onde estou apri
     height="200"
   />
 </p>
-<img src="https://raw.githubusercontent.com/Williancp/Williancp/output/snake.svg" alt="Snake animation" />
-
